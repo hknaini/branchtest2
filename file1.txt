@@ -1,2 +1,3 @@
 This is a new file in a new branchgit a
 now from master
+Now from git branch 2
